@@ -1,11 +1,20 @@
-# Hello There TUPIANS
+# TECHGUILD
 
-- 👋 Hi, I’m @TUPM-TechGuild
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+We, the TUP Tech Guild, with the benign aid of Almighty God, establish an organization that shall promote the significance of Software Engineering, abide by the Code of Ethics for Software Professionals, commit themselves to make the analysis, specification, design, development, testing and maintenance of software a beneficial and respected profession, fulfill the aspirations we have and perform the way we act as software engineering professionals, and epitomize the mission and vision of organization along with the growth of each and every member, do ordain and promulgate this constitution. 
 
+
+
+
+### 💞️ We are open for collaboration on 
+- Webinars
+- Trainings
+### 📫 How to reach me 
+- [Connect Via Email](tup.prog.guild@gmail.com)
+- [Connect Via Facebook](https://www.google.com)
+- [Connect Via Twitter](https://www.google.com)
+
+### 👀 Interested in 
+- Anything that can help our members to grow 
 
 
 <!---
